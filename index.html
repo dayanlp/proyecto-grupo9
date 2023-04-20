@@ -1,0 +1,51 @@
+<!--LAST MODIFIED: 4/20/2023-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Catalogo</title> 
+ <link rel="shortcut icon" type="img/png" href="img/favicon.png">
+ <!--External Links-->
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+ <!--External Links-->
+ <link rel="stylesheet" href="css/global.css">
+ <link rel="stylesheet" href="css/index.css">
+ <script src="js/productos.js"></script>
+ <script src="js/index.js" defer></script>
+</head>
+<body onload="updateTable(productList)">
+ <main class="normal-cont">
+  <header>
+   <p class="label-light2">Podes poner info aqui. </p>
+   <h1 class="h1">💖 Titulo de tu Pagina</h1>
+   <p class="p">Podes poner un parrafo aqui.</p>
+  </header>
+ <table>
+  <thead>
+     <tr>
+       <th><label>N°</label></th>
+       <th><label>Item</label></th>
+       <th><label>Detalles</label></th>
+       <th><label>Precio</label></th>
+       <th><label>Evidencia</label></th>
+       <th><label>Ver Producto</label></th>
+     </tr>
+   </thead>
+   <tbody id="tableBody">
+   </tbody>
+ </table>
+ <div class="factura">
+  <h2 class="h2">Factura</h2>
+  <img src="img/factura.png" alt="Factura">
+ </div>
+ </main>
+<footer>
+ <p>Alex McCarthy | 2023</p>
+</footer>
+</body>
+</html>
