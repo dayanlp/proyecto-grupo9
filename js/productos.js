@@ -75,9 +75,7 @@ let productList = [
       "precio": 618.00, 
       "evidencia": "img/precio14.png", 
       "link": "https://www.amazon.com/-/es/Audioengine-altavoces-Bluetooth-inal%C3%A1mbricos-subwoofer/dp/B0BHF38Z4H/ref=sr_1_6?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2X7O07S2VRFJH&keywords=Speakers%3A+Audioengine+A2&qid=1682097082&sprefix=parlantes+audioengine+a2%2Caps%2C2829&sr=8-6"
-   } 
-
-
+   },
    {
       "item": "Sistema Operativo: Windows 10",
       "detalles": "Ofrece una amplia compatibilidad de hardware y software, así como una interfaz de usuario moderna y funcionalidades mejoradas de seguridad y privacidad. Además, cuenta con un gran soporte y actualizaciones regulares por parte de Microsoft", 
@@ -87,7 +85,7 @@ let productList = [
    } ,
    {
       "item": "Juego de Herramientas: STREBITO",
-      "detalles": "Tener este juego de herramientas para la construcción de la PC es una inversión inteligente, para garantizar que todo esté bien ajustado y funcionando correctamente.", 
+ S     "detalles": "Tener este juego de herramientas para la construcción de la PC es una inversión inteligente, para garantizar que todo esté bien ajustado y funcionando correctamente.", 
       "precio": 27.99, 
       "evidencia": "img/precio12.png", 
       "link": "https://www.amazon.com/-/es/gp/product/B08SGM6F79/ref=sw_img_1?smid=A3O9D838LUT8Q2&psc=1"
