@@ -85,7 +85,7 @@ let productList = [
    } ,
    {
       "item": "Juego de Herramientas: STREBITO",
- S     "detalles": "Tener este juego de herramientas para la construcción de la PC es una inversión inteligente, para garantizar que todo esté bien ajustado y funcionando correctamente.", 
+      "detalles": "Tener este juego de herramientas para la construcción de la PC es una inversión inteligente, para garantizar que todo esté bien ajustado y funcionando correctamente.", 
       "precio": 27.99, 
       "evidencia": "img/precio12.png", 
       "link": "https://www.amazon.com/-/es/gp/product/B08SGM6F79/ref=sw_img_1?smid=A3O9D838LUT8Q2&psc=1"
