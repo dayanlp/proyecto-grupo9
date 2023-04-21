@@ -22,7 +22,7 @@ let productList = [
    },
    {
       "item": "Memoria RAM: Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600",
-      "detalles": "LSa memoria RAM Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 es una excelente opción para un equipo de alta gama debido a su rendimiento, capacidad, estética y calidad.", 
+      "detalles": "La memoria RAM Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 es una excelente opción para un equipo de alta gama debido a su rendimiento, capacidad, estética y calidad.", 
       "precio": 114.28, 
       "evidencia": "img/precio4.png", 
       "link": "https://www.amazon.com/-/es/gp/product/B082DGZJ9C/ref=sw_img_1?smid=AAZRLVTNON75Z&psc=1"
