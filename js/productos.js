@@ -22,7 +22,7 @@ let productList = [
    },
    {
       "item": "Memoria RAM: Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600",
-      "detalles": "la memoria RAM Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 es una excelente opción para un equipo de alta gama debido a su rendimiento, capacidad, estética y calidad.", 
+      "detalles": "LSa memoria RAM Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 es una excelente opción para un equipo de alta gama debido a su rendimiento, capacidad, estética y calidad.", 
       "precio": 114.28, 
       "evidencia": "img/precio4.png", 
       "link": "https://www.amazon.com/-/es/gp/product/B082DGZJ9C/ref=sw_img_1?smid=AAZRLVTNON75Z&psc=1"
@@ -68,13 +68,22 @@ let productList = [
       "precio": 39.99, 
       "evidencia": "img/precio10.png", 
       "link": "https://www.amazon.com/-/es/gp/product/B0BP8H4XFV/ref=sw_img_1?smid=ATVPDKIKX0DER&th=1"
-   } ,
+   } , 
+   {
+      "item": "Parlantes: Audioengine A2+ Plus y subwoofer negro S8",
+      "detalles": "Parlantes de alta calidad que ofrecen una experiencia auditiva excepcional", 
+      "precio": 618.00, 
+      "evidencia": "img/precio14.png", 
+      "link": "https://www.amazon.com/-/es/Audioengine-altavoces-Bluetooth-inal%C3%A1mbricos-subwoofer/dp/B0BHF38Z4H/ref=sr_1_6?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2X7O07S2VRFJH&keywords=Speakers%3A+Audioengine+A2&qid=1682097082&sprefix=parlantes+audioengine+a2%2Caps%2C2829&sr=8-6"
+   } 
+
+
    {
       "item": "Sistema Operativo: Windows 10",
       "detalles": "Ofrece una amplia compatibilidad de hardware y software, así como una interfaz de usuario moderna y funcionalidades mejoradas de seguridad y privacidad. Además, cuenta con un gran soporte y actualizaciones regulares por parte de Microsoft", 
       "precio": 152.98, 
       "evidencia": "img/precio11.png", 
-      "link": ""
+      "link": "https://www.amazon.com/-/es/gp/product/B010VH7WQ6/ref=sw_img_1?smid=AAZRLVTNON75Z&psc=1"
    } ,
    {
       "item": "Juego de Herramientas: STREBITO",
