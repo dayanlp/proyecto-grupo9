@@ -25,7 +25,7 @@ function createTableRow(number,name,details,price,evidencia,link){
  itemNumber.innerHTML = number;
  itemName.innerHTML = name;
  itemDetails.innerHTML = details;
- itemPrice.innerHTML = `L. ${price}`;
+ itemPrice.innerHTML = `$ ${price}`;
  itemEvidencia.innerHTML = `<img src="${evidencia}" alt="Precio Original de ${name}">`;
  itemLink.innerHTML = `<button class="btn dark1"><a href="${link}" target="_blank" rel=”noopener noreferrer”">Ver</a></button>`;
 
